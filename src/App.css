@@ -1,0 +1,45 @@
+/* App container */
+.App {
+  font-family: "Arial", sans-serif;
+}
+
+/* Header section */
+.header {
+  background-color: #007bff; /* Primary blue background color */
+  color: #fff; /* White text color */
+}
+
+.name {
+  font-size: 3rem; /* Larger font size */
+}
+
+.job-title {
+  font-size: 1.5rem; /* Smaller font size */
+}
+
+/* Section title */
+.section-title {
+  color: #007bff; /* Primary blue text color for section titles */
+}
+
+/* About section */
+.about {
+  background-color: #f7f7f7; /* Light gray background color */
+}
+
+/* Contact section */
+.contact {
+  background-color: #007bff; /* Primary blue background color */
+  color: #fff; /* White text color */
+}
+
+/* Contact links */
+.contact a {
+  color: #fff; /* White link color */
+  text-decoration: none;
+  margin-right: 15px;
+}
+
+.contact a:hover {
+  text-decoration: underline;
+}
